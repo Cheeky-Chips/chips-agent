@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'fusion-pixel-10px-monospaced-zh_hans';
+  src: local('fusion-pixel-10px-monospaced-zh_hans'), url('../res/fonts/fusion-pixel-10px-monospaced-zh_hans.ttf') format('ttf');
+}
+
+.text {
+  font-family: fusion-pixel-10px-monospaced-zh_hans, sans-serif;
+  color: white;
+}
